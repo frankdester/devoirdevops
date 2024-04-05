@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 installation local : dpkg – rpm
+=======
+cscs,csinstallation local : dpkg – rpm
+>>>>>>> paquet_local
 wireshark
+
